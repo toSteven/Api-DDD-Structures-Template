@@ -38,6 +38,7 @@ dotnet add ProjectName.Infrastructure/ProjectName.Infrastructure.csproj referenc
 dotnet add ProjectName.Domain/ProjectName.Domain.csproj reference ProjectName.Shared/ProjectName.Shared.csproj
 
 # 4. Add Nugget Package
+add nugget needed
 
 # 5. Create folders inside projects
 
